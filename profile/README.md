@@ -2,7 +2,7 @@
 Atmos aims to create programs that can help users find applications & games they like, as well as help developers publish their applications.
 
 ### Technology Stack
-[![Tech Stacks](https://skillicons.dev/icons?i=gcp,firebase,git,nextjs,django,ts,figma,vscode,postgres,tailwind,postman,html,css,js,discord)](https://skillicons.dev)
+[![Tech Stacks](https://skillicons.dev/icons?i=git,gitlab,idea,vscode,nextjs,ts,tailwind,vercel,gcp,gradle,spring,java,postgres,supabase,docker,prometheus,grafana,postman,discord)](https://skillicons.dev)
 
 ### Website
 <a href="https://atmos1.vercel.app"><button>Atmos Link</button></a><br/>
